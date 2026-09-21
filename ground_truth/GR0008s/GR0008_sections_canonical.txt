@@ -1,0 +1,8 @@
+0.0 chorus
+18.258661 verse_1
+92.562592 chorus
+109.717422 verse_2
+202.279652 chorus
+219.440193 verse_3
+293.697876 chorus
+	

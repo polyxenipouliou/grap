@@ -1,0 +1,5 @@
+0.0 chorus
+21.947733 verse_1
+64.806331 verse_2
+98.563325 chorus
+119.998504 outro

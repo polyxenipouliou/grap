@@ -1,0 +1,11 @@
+0.0 intro
+12.209257 chorus
+39.001742 verse_1
+78.467870 bridge
+91.616194 verse_2
+105.924303 chorus
+132.704013 verse_3
+158.569591 pre-chorus
+184.861581 verse_4
+217.598748 chorus
+

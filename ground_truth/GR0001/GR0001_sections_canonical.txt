@@ -1,0 +1,7 @@
+0.0 intro
+25.877074 verse_1
+92.672344 chorus
+105.785998 verse_2
+172.086748 chorus
+198.539210 silence
+205.195818 outro	

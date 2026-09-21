@@ -1,0 +1,6293 @@
+{ 
+  "track_id": "GR0021",
+  "syllables": [
+    {
+      "level": "syllable",
+      "label": "Το",
+      "word": "Το",
+      "start": 40.045461,
+      "end": 40.204455,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "μυα",
+      "word": "μυαλό",
+      "start": 40.204455,
+      "end": 40.375311,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "λο",
+      "word": "μυαλό",
+      "start": 40.375311,
+      "end": 40.472759,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "φτια",
+      "word": "φτιάχνει",
+      "start": 40.472759,
+      "end": 40.616365,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "χνει",
+      "word": "φτιάχνει",
+      "start": 40.616365,
+      "end": 40.739457,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "φυ",
+      "word": "φυλακές",
+      "start": 40.739457,
+      "end": 40.847162,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "λα",
+      "word": "φυλακές",
+      "start": 40.847162,
+      "end": 41.011284,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "κές",
+      "word": "φυλακές",
+      "start": 41.011284,
+      "end": 41.385687,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "Κιε",
+      "word": "Κι εμείς",
+      "start": 41.872768,
+      "end": 42.036890,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "μείς",
+      "word": "Κι εμείς",
+      "start": 42.036890,
+      "end": 42.206141,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "έ",
+      "word": "έναν",
+      "start": 42.206141,
+      "end": 42.267687,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ναν",
+      "word": "έναν",
+      "start": 42.267687,
+      "end": 42.398687,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "δί",
+      "word": "δίσκο",
+      "start": 42.398687,
+      "end": 42.496135,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "σκο",
+      "word": "δίσκο",
+      "start": 42.496135,
+      "end": 42.649999,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "να",
+      "word": "να",
+      "start": 42.649999,
+      "end": 42.783348,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "φέ",
+      "word": "φέρουμε",
+      "start": 42.783348,
+      "end": 42.947470,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ρου",
+      "word": "φέρουμε",
+      "start": 42.947470,
+      "end": 43.055175,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "με",
+      "word": "φέρουμε",
+      "start": 43.055175,
+      "end": 43.260327,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "Θα",
+      "word": "Θα",
+      "start": 43.506355,
+      "end": 43.696121,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ρθουμ",
+      "word": "'ρθούμ'",
+      "start": 43.696121,
+      "end": 43.860243,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ό",
+      "word": "όταν",
+      "start": 43.860243,
+      "end": 43.973077,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ταν",
+      "word": "όταν",
+      "start": 43.973077,
+      "end": 44.116683,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ό",
+      "word": "όλοι",
+      "start": 44.116683,
+      "end": 44.244904,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "λοι",
+      "word": "όλοι",
+      "start": 44.244904,
+      "end": 44.342351,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "κοι",
+      "word": "κοιμούνται",
+      "start": 44.342351,
+      "end": 44.470571,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "μού",
+      "word": "κοιμούνται",
+      "start": 44.470571,
+      "end": 44.655208,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "νται",
+      "word": "κοιμούνται",
+      "start": 44.655208,
+      "end": 44.811853,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "Σή",
+      "word": "Σήκω",
+      "start": 45.264794,
+      "end": 45.454560,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "κω",
+      "word": "Σήκω",
+      "start": 45.454560,
+      "end": 45.567394,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "α",
+      "word": "απόψε",
+      "start": 45.567394,
+      "end": 45.628940,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "πό",
+      "word": "απόψε",
+      "start": 45.628940,
+      "end": 45.736645,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ψε",
+      "word": "απόψε",
+      "start": 45.736645,
+      "end": 45.886986,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "δρα",
+      "word": "δραπετεύουμε",
+      "start": 45.886986,
+      "end": 46.056237,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "πε",
+      "word": "δραπετεύουμε",
+      "start": 46.056237,
+      "end": 46.169071,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "τεύ",
+      "word": "δραπετεύουμε",
+      "start": 46.169071,
+      "end": 46.353708,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ου",
+      "word": "δραπετεύουμε",
+      "start": 46.353708,
+      "end": 46.500095,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "με",
+      "word": "δραπετεύουμε",
+      "start": 46.500095,
+      "end": 46.633444,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "Λί",
+      "word": "Λίγο",
+      "start": 46.771922,
+      "end": 46.951430,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "γο",
+      "word": "Λίγο",
+      "start": 46.951430,
+      "end": 47.023234,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "α",
+      "word": "ακόμα",
+      "start": 47.023234,
+      "end": 47.079650,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "κό",
+      "word": "ακόμα",
+      "start": 47.079650,
+      "end": 47.215792,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "μα",
+      "word": "ακόμα",
+      "start": 47.215792,
+      "end": 47.338871,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "μας",
+      "word": "μας",
+      "start": 47.338871,
+      "end": 47.554281,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "έ",
+      "word": "έμεινε",
+      "start": 47.554281,
+      "end": 47.636342,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "μει",
+      "word": "έμεινε",
+      "start": 47.636342,
+      "end": 47.741699,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "νε",
+      "word": "έμεινε",
+      "start": 47.741699,
+      "end": 47.844275,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "φύ",
+      "word": "φύσα",
+      "start": 47.844275,
+      "end": 48.026564,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "σα",
+      "word": "φύσα",
+      "start": 48.026564,
+      "end": 48.226587,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "Φύ",
+      "word": "Φύσα",
+      "start": 48.762764,
+      "end": 48.937143,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "σα",
+      "word": "Φύσα",
+      "start": 48.937143,
+      "end": 49.068731,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "τα",
+      "word": "τα",
+      "start": 49.068731,
+      "end": 49.196951,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "σύ",
+      "word": "σύννεφα",
+      "start": 49.196951,
+      "end": 49.333081,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ννε",
+      "word": "σύννεφα",
+      "start": 49.333081,
+      "end": 49.451043,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "φα",
+      "word": "σύννεφα",
+      "start": 49.451043,
+      "end": 49.574135,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "φεύ",
+      "word": "φεύγουνε",
+      "start": 49.574135,
+      "end": 49.804931,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "γου",
+      "word": "φεύγουνε",
+      "start": 49.804931,
+      "end": 49.916591,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "νε",
+      "word": "φεύγουνε",
+      "start": 49.916591,
+      "end": 50.132001,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "(Φύ",
+      "word": "(Φύσα",
+      "start": 52.087528,
+      "end": 52.251650,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "σα)",
+      "word": "(Φύσα",
+      "start": 52.251650,
+      "end": 52.393495,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "τα",
+      "word": "τα",
+      "start": 52.393495,
+      "end": 52.547360,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "σύ",
+      "word": "σύννεφα",
+      "start": 52.547360,
+      "end": 52.680709,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ννε",
+      "word": "σύννεφα",
+      "start": 52.680709,
+      "end": 52.803800,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "φα",
+      "word": "σύννεφα",
+      "start": 52.803800,
+      "end": 52.914285,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "φεύ",
+      "word": "φεύγουνε",
+      "start": 52.914285,
+      "end": 53.109180,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "γου",
+      "word": "φεύγουνε",
+      "start": 53.109180,
+      "end": 53.261283,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "νε",
+      "word": "φεύγουνε",
+      "start": 53.261283,
+      "end": 53.430534,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "Νύ",
+      "word": "Νύχτωσε",
+      "start": 53.644183,
+      "end": 53.880108,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "χτω",
+      "word": "Νύχτωσε",
+      "start": 53.880108,
+      "end": 54.059616,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "σε",
+      "word": "Νύχτωσε",
+      "start": 54.059616,
+      "end": 54.280155,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "και",
+      "word": "και",
+      "start": 54.280155,
+      "end": 54.514319,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "βλέ",
+      "word": "βλέπω",
+      "start": 54.514319,
+      "end": 54.688698,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "πω",
+      "word": "βλέπω",
+      "start": 54.688698,
+      "end": 54.775888,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "τα",
+      "word": "τα",
+      "start": 54.775888,
+      "end": 54.909237,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "φώ",
+      "word": "φώτα",
+      "start": 54.909237,
+      "end": 55.044779,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "τα",
+      "word": "φώτα",
+      "start": 55.044779,
+      "end": 55.183257,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "της",
+      "word": "της",
+      "start": 55.183257,
+      "end": 55.326864,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "πό",
+      "word": "πόλης",
+      "start": 55.326864,
+      "end": 55.506372,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "λης",
+      "word": "πόλης",
+      "start": 55.506372,
+      "end": 55.655108,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "α",
+      "word": "από",
+      "start": 55.655108,
+      "end": 55.747426,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "πό",
+      "word": "από",
+      "start": 55.747426,
+      "end": 55.889272,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "τα",
+      "word": "τα",
+      "start": 55.889272,
+      "end": 56.017492,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "πα",
+      "word": "παράθυρα",
+      "start": 56.017492,
+      "end": 56.222644,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ρά",
+      "word": "παράθυρα",
+      "start": 56.222644,
+      "end": 56.361122,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "θυ",
+      "word": "παράθυρα",
+      "start": 56.361122,
+      "end": 56.527437,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ρα",
+      "word": "παράθυρα",
+      "start": 56.527437,
+      "end": 56.707377,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "Προ",
+      "word": "Προσπάθησα",
+      "start": 56.885712,
+      "end": 57.044705,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "σπά",
+      "word": "Προσπάθησα",
+      "start": 57.044705,
+      "end": 57.187137,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "θη",
+      "word": "Προσπάθησα",
+      "start": 57.187137,
+      "end": 57.279456,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "σα",
+      "word": "Προσπάθησα",
+      "start": 57.279456,
+      "end": 57.455769,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "να",
+      "word": "να",
+      "start": 57.455769,
+      "end": 57.584924,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "κα",
+      "word": "καταλάβω",
+      "start": 57.584924,
+      "end": 57.693248,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "τα",
+      "word": "καταλάβω",
+      "start": 57.693248,
+      "end": 57.830736,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "λά",
+      "word": "καταλάβω",
+      "start": 57.830736,
+      "end": 58.000600,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "βω",
+      "word": "καταλάβω",
+      "start": 58.000600,
+      "end": 58.108924,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "το",
+      "word": "το",
+      "start": 58.108924,
+      "end": 58.227838,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "μέ",
+      "word": "μέγεθος",
+      "start": 58.227838,
+      "end": 58.444486,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "γε",
+      "word": "μέγεθος",
+      "start": 58.444486,
+      "end": 58.556976,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "θος",
+      "word": "μέγεθος",
+      "start": 58.556976,
+      "end": 58.752792,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "αυ",
+      "word": "αυτού",
+      "start": 58.752792,
+      "end": 58.890279,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "τού",
+      "word": "αυτού",
+      "start": 58.890279,
+      "end": 58.965273,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "του",
+      "word": "του",
+      "start": 58.965273,
+      "end": 59.077763,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "κό",
+      "word": "κόσμου",
+      "start": 59.077763,
+      "end": 59.261080,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "σμου",
+      "word": "κόσμου",
+      "start": 59.261080,
+      "end": 59.402734,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "και",
+      "word": "και",
+      "start": 59.402734,
+      "end": 59.518436,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "χά",
+      "word": "χάθηκα",
+      "start": 59.518436,
+      "end": 59.639259,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "θη",
+      "word": "χάθηκα",
+      "start": 59.639259,
+      "end": 59.815548,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "κα",
+      "word": "χάθηκα",
+      "start": 59.815548,
+      "end": 59.990532,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "Μα",
+      "word": "Μα",
+      "start": 60.345495,
+      "end": 60.499248,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "δεν",
+      "word": "δεν",
+      "start": 60.499248,
+      "end": 60.595473,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "πει",
+      "word": "πειράζει",
+      "start": 60.595473,
+      "end": 60.774623,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ρά",
+      "word": "πειράζει",
+      "start": 60.774623,
+      "end": 60.974605,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ζει",
+      "word": "πειράζει",
+      "start": 60.974605,
+      "end": 61.099594,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ας",
+      "word": "ας",
+      "start": 61.099594,
+      "end": 61.276360,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "εί",
+      "word": "είναι",
+      "start": 61.276360,
+      "end": 61.343021,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ναι",
+      "word": "είναι",
+      "start": 61.343021,
+      "end": 61.424916,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "μη",
+      "word": "μηδέν",
+      "start": 61.424916,
+      "end": 61.566570,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "δεν",
+      "word": "μηδέν",
+      "start": 61.566570,
+      "end": 61.778097,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "μες",
+      "word": "μες",
+      "start": 61.778097,
+      "end": 61.953082,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "στο",
+      "word": "στο",
+      "start": 61.953082,
+      "end": 62.042832,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "σύ",
+      "word": "σύνολο",
+      "start": 62.042832,
+      "end": 62.176154,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "νο",
+      "word": "σύνολο",
+      "start": 62.176154,
+      "end": 62.334473,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "λο",
+      "word": "σύνολο",
+      "start": 62.334473,
+      "end": 62.480293,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ο",
+      "word": "ο",
+      "start": 62.480293,
+      "end": 62.567786,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ε",
+      "word": "εαυτός",
+      "start": 62.567786,
+      "end": 62.696941,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "αυ",
+      "word": "εαυτός",
+      "start": 62.696941,
+      "end": 62.855260,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "τός",
+      "word": "εαυτός",
+      "start": 62.855260,
+      "end": 63.103330,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "μου",
+      "word": "μου",
+      "start": 63.103330,
+      "end": 63.349141,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "Ό",
+      "word": "Όσοι",
+      "start": 63.593522,
+      "end": 63.689347,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "σοι",
+      "word": "Όσοι",
+      "start": 63.689347,
+      "end": 63.781005,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "μα",
+      "word": "μ'αγαπάνε",
+      "start": 63.781005,
+      "end": 63.922659,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "γα",
+      "word": "μ'αγαπάνε",
+      "start": 63.922659,
+      "end": 64.057762,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "πά",
+      "word": "μ'αγαπάνε",
+      "start": 64.057762,
+      "end": 64.291075,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "νε",
+      "word": "μ'αγαπάνε",
+      "start": 64.291075,
+      "end": 64.409513,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ό",
+      "word": "όταν",
+      "start": 64.409513,
+      "end": 64.484506,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ταν",
+      "word": "όταν",
+      "start": 64.484506,
+      "end": 64.633062,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "με",
+      "word": "με",
+      "start": 64.633062,
+      "end": 64.753884,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "κοι",
+      "word": "κοιτάζουνε",
+      "start": 64.753884,
+      "end": 64.856134,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "τά",
+      "word": "κοιτάζουνε",
+      "start": 64.856134,
+      "end": 65.110278,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ζου",
+      "word": "κοιτάζουνε",
+      "start": 65.110278,
+      "end": 65.218602,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "νε",
+      "word": "κοιτάζουνε",
+      "start": 65.218602,
+      "end": 65.356089,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "βλέ",
+      "word": "βλέπουν",
+      "start": 65.356089,
+      "end": 65.514409,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "πουν",
+      "word": "βλέπουν",
+      "start": 65.514409,
+      "end": 65.618566,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "το",
+      "word": "το",
+      "start": 65.618566,
+      "end": 65.728671,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "κέ",
+      "word": "κέντρο",
+      "start": 65.728671,
+      "end": 65.949485,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ντρο",
+      "word": "κέντρο",
+      "start": 65.949485,
+      "end": 66.107804,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "του",
+      "word": "του",
+      "start": 66.107804,
+      "end": 66.199462,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "κόσ",
+      "word": "κόσμου",
+      "start": 66.199462,
+      "end": 66.509550,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "σμου",
+      "word": "κόσμου",
+      "start": 66.509550,
+      "end": 66.726197,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "Λού",
+      "word": "Λούπα",
+      "start": 66.997357,
+      "end": 67.280665,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "πα",
+      "word": "Λούπα",
+      "start": 67.280665,
+      "end": 67.476481,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "σαν",
+      "word": "σαν",
+      "start": 67.597304,
+      "end": 67.776454,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "αυ",
+      "word": "αυτό",
+      "start": 67.776454,
+      "end": 67.909776,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "τό",
+      "word": "αυτό",
+      "start": 67.909776,
+      "end": 68.005601,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "το",
+      "word": "το",
+      "start": 68.005601,
+      "end":68.125820,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "βρω",
+      "word": "βρωμόμπιτο",
+      "start":68.125820,
+      "end": 68.288305,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "μό",
+      "word": "βρωμόμπιτο",
+      "start": 68.288305,
+      "end": 68.421627,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "μπι",
+      "word": "βρωμόμπιτο",
+      "start": 68.421627,
+      "end": 68.538283,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "το",
+      "word": "βρωμόμπιτο",
+      "start": 68.538283,
+      "end": 68.661364,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "λού",
+      "word": "λούπα",
+      "start": 68.661364,
+      "end": 68.853014,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "πα",
+      "word": "λούπα",
+      "start": 68.853014,
+      "end": 69.036331,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "Δεν",
+      "word": "Δεν",
+      "start": 69.286309,
+      "end": 69.432129,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "γυ",
+      "word": "γυρίζ'",
+      "start": 69.432129,
+      "end": 69.561284,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ρίζ",
+      "word": "γυρίζ'",
+      "start": 69.561284,
+      "end": 69.704720,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ού",
+      "word": "ούτε",
+      "start": 69.704720,
+      "end": 69.767214,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "τε",
+      "word": "ούτε",
+      "start": 69.767214,
+      "end": 69.879704,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "μέ",
+      "word": "μέρα",
+      "start": 69.879704,
+      "end": 70.079686,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ρα",
+      "word": "μέρα",
+      "start": 70.079686,
+      "end": 70.152295,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "στα",
+      "word": "στα",
+      "start": 70.152295,
+      "end": 70.343944,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "λού",
+      "word": "λούκια",
+      "start": 70.343944,
+      "end": 70.493931,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "κια",
+      "word": "λούκια",
+      "start": 70.493931,
+      "end": 70.718911,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "Με",
+      "word": "Με",
+      "start": 70.910911,
+      "end": 71.069230,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "κο",
+      "word": "κομμένες",
+      "start": 71.069230,
+      "end": 71.181720,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "μμέ",
+      "word": "κομμένες",
+      "start": 71.181720,
+      "end": 71.294210,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "νες",
+      "word": "κομμένες",
+      "start": 71.294210,
+      "end": 71.433003,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "α",
+      "word": "ανάσες",
+      "start": 71.433003,
+      "end": 71.549659,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "νά",
+      "word": "ανάσες",
+      "start": 71.549659,
+      "end": 71.720477,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "σες",
+      "word": "ανάσες",
+      "start": 71.720477,
+      "end": 71.874630,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "και",
+      "word": "και",
+      "start": 71.874630,
+      "end": 71.982954,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "μού",
+      "word": "μούτρα",
+      "start": 71.982954,
+      "end": 72.172219,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "τρα",
+      "word": "μούτρα",
+      "start": 72.172219,
+      "end": 72.368034,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "Φέ",
+      "word": "Φέτος",
+      "start": 72.840130,
+      "end": 72.985951,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "τος",
+      "word": "Φέτος",
+      "start": 72.985951,
+      "end": 73.165101,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ορ",
+      "word": "ορκίστηκα",
+      "start": 73.165101,
+      "end": 73.248427,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "κί",
+      "word": "ορκίστηκα",
+      "start": 73.248427,
+      "end": 73.412694,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "στη",
+      "word": "ορκίστηκα",
+      "start": 73.412694,
+      "end": 73.562681,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "κα",
+      "word": "ορκίστηκα",
+      "start": 73.562681,
+      "end": 73.721000,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ό",
+      "word": "ότι",
+      "start": 73.721000,
+      "end": 73.795994,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "τι",
+      "word": "ότι",
+      "start": 73.795994,
+      "end": 73.891818,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "θα",
+      "word": "θα",
+      "start": 73.891818,
+      "end": 74.100133,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "πά",
+      "word": "πάω",
+      "start": 74.100133,
+      "end": 74.333446,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ω",
+      "word": "πάω",
+      "start": 74.333446,
+      "end": 74.433437,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ε",
+      "word": "εκεί",
+      "start": 74.433437,
+      "end": 74.510212,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "κεί",
+      "word": "εκεί",
+      "start": 74.510212,
+      "end": 74.589371,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "που",
+      "word": "που",
+      "start": 74.589371,
+      "end": 74.713757,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "δεν",
+      "word": "δεν",
+      "start": 74.713757,
+      "end": 74.797083,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "φτά",
+      "word": "φτάναν",
+      "start": 74.797083,
+      "end": 75.067892,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ναν",
+      "word": "φτάναν",
+      "start": 75.067892,
+      "end": 75.197047,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "τα",
+      "word": "τα",
+      "start": 75.197047,
+      "end": 75.355366,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "χέ",
+      "word": "χέρια",
+      "start": 75.355366,
+      "end": 75.513686,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ρια",
+      "word": "χέρια",
+      "start": 75.513686,
+      "end": 75.727471,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "μου",
+      "word": "μου",
+      "start": 75.727471,
+      "end": 75.969116,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "Και",
+      "word": "Και",
+      "start": 75.969116,
+      "end": 76.108386,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "σε",
+      "word": "σ'έναν",
+      "start": 76.108386,
+      "end": 76.200044,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ναν",
+      "word": "έναν",
+      "start": 76.200044,
+      "end": 76.370862,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ω",
+      "word": "ωριλά",
+      "start": 76.370862,
+      "end": 76.469899,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ρι",
+      "word": "ωριλά",
+      "start": 76.469899,
+      "end": 76.590722,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "λά",
+      "word": "ωριλά",
+      "start": 76.590722,
+      "end": 76.792486,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "για",
+      "word": "για",
+      "start": 76.792486,
+      "end": 76.913308,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "να",
+      "word": "ν'ακούω",
+      "start": 76.913308,
+      "end": 77.050796,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "κούω",
+      "word": "ν'ακούω",
+      "start": 77.050796,
+      "end": 77.296608,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "λί",
+      "word": "λίγο",
+      "start": 77.296608,
+      "end": 77.402069,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "γο",
+      "word": "λίγο",
+      "start": 77.402069,
+      "end": 77.581220,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "πιο",
+      "word": "πιο",
+      "start": 77.581220,
+      "end": 77.702043,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "κα",
+      "word": "καλά",
+      "start": 77.702043,
+      "end": 77.852029,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "λά",
+      "word": "καλά",
+      "start": 77.852029,
+      "end": 77.987609,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "το",
+      "word": "το",
+      "start": 77.987609,
+      "end": 78.125097,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "παι",
+      "word": "παιδί",
+      "start": 78.125097,
+      "end": 78.254252,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "δί",
+      "word": "παιδί",
+      "start": 78.254252,
+      "end": 78.404239,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "που",
+      "word": "που",
+      "start": 78.404239,
+      "end": 78.527797,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "χω",
+      "word": "'χω",
+      "start": 78.527797,
+      "end": 78.623622,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "μέ",
+      "word": "μέσα",
+      "start": 78.623622,
+      "end": 78.815271,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "σα",
+      "word": "μέσα",
+      "start": 78.815271,
+      "end": 79.019420,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "μου",
+      "word": "μου",
+      "start": 79.019420,
+      "end": 79.129048,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "Μπρο",
+      "word": "Μπροστά",
+      "start": 80.172403,
+      "end": 80.330723,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "στά",
+      "word": "Μπροστά",
+      "start": 80.330723,
+      "end": 80.524631,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "γκρε",
+      "word": "γκρεμός",
+      "start": 80.524631,
+      "end": 80.678784,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "μός",
+      "word": "γκρεμός",
+      "start": 80.678784,
+      "end": 81.053750,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "πί",
+      "word": "πίσω",
+      "start": 81.210162,
+      "end": 81.393479,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "σω",
+      "word": "πίσω",
+      "start": 81.393479,
+      "end": 81.539299,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ρέ",
+      "word": "ρέμα",
+      "start": 81.539299,
+      "end": 81.689286,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "μα",
+      "word": "ρέμα",
+      "start": 81.689286,
+      "end": 81.855937,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "λες",
+      "word": "λες",
+      "start": 82.034962,
+      "end": 82.226611,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "να",
+      "word": "να",
+      "start": 82.226611,
+      "end": 82.318270,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "μας",
+      "word": "μας",
+      "start": 82.318270,
+      "end": 82.547416,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "σώ",
+      "word": "σώσει",
+      "start": 82.547416,
+      "end": 82.622410,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "σει",
+      "word": "σώσει",
+      "start": 82.622410,
+      "end": 82.722401,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "να",
+      "word": "(έ)να",
+      "start": 82.722401,
+      "end": 82.876554,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "Boeing",
+      "word": "Boeing",
+      "start": 82.876554,
+      "end": 83.250089,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "Ό",
+      "word": "Όπως",
+      "start": 83.684689,
+      "end": 83.813844,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "πως",
+      "word": "Όπως",
+      "start": 83.813844,
+      "end": 83.967997,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "και",
+      "word": "και",
+      "start": 83.967997,
+      "end": 84.101318,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "να",
+      "word": "να",
+      "start": 84.101318,
+      "end": 84.284986,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "χει",
+      "word": "'χει",
+      "start": 84.284986,
+      "end": 84.564128,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ά",
+      "word": "άμα",
+      "start": 84.564128,
+      "end": 84.676618,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "μα",
+      "word": "άμα",
+      "start": 84.676618,
+      "end": 84.780775,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "χω",
+      "word": "χωρίσεις",
+      "start": 84.780775,
+      "end": 84.990394,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ρί",
+      "word": "χωρίσεις",
+      "start": 84.990394,
+      "end": 85.090385,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "σεις",
+      "word": "χωρίσεις",
+      "start": 85.090385,
+      "end": 85.240372,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "μην",
+      "word": "μην",
+      "start": 85.240372,
+      "end": 85.361195,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ξα",
+      "word": "ξανά",
+      "start": 85.361195,
+      "end": 85.516175,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "νά",
+      "word": "ξανά",
+      "start": 85.516175,
+      "end": 85.632831,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "γυ",
+      "word": "γυρίσεις",
+      "start": 85.632831,
+      "end": 85.820315,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ρί",
+      "word": "γυρίσεις",
+      "start": 85.820315,
+      "end": 85.928638,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "σεις",
+      "word": "γυρίσεις",
+      "start": 85.928638,
+      "end": 86.024463,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "σε",
+      "word": "σε",
+      "start": 86.024463,
+      "end": 86.161951,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "πρώ",
+      "word": "πρώην",
+      "start": 86.161951,
+      "end": 86.432760,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ην",
+      "word": "πρώην",
+      "start": 86.432760,
+      "end": 86.520252,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "Κά",
+      "word": "Κάθε",
+      "start": 86.741417,
+      "end": 86.895570,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "θε",
+      "word": "Κάθε",
+      "start": 86.895570,
+      "end": 87.003893,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "τέ",
+      "word": "τέλος",
+      "start": 87.003893,
+      "end": 87.145547,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "λος",
+      "word": "τέλος",
+      "start": 87.145547,
+      "end": 87.268628,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "μια",
+      "word": "μια",
+      "start": 87.268628,
+      "end": 87.481110,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "νέ",
+      "word": "νέα",
+      "start": 87.481110,
+      "end": 87.646330,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "α",
+      "word": "νέα",
+      "start": 87.646330,
+      "end": 87.721324,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "αρ",
+      "word": "αρχή",
+      "start": 87.721324,
+      "end": 87.800483,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "χή",
+      "word": "αρχή",
+      "start": 87.800483,
+      "end": 88.079625,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "Κά",
+      "word": "Κάθε",
+      "start": 88.430422,
+      "end": 88.526246,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "θε",
+      "word": "Κάθε",
+      "start": 88.526246,
+      "end": 88.672067,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "τέ",
+      "word": "τέλος",
+      "start": 88.672067,
+      "end": 88.805388,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "λος",
+      "word": "τέλος",
+      "start": 88.805388,
+      "end": 88.956679,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "μί",
+      "word": "μία",
+      "start": 88.956679,
+      "end": 89.085835,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "α",
+      "word": "μία",
+      "start": 89.085835,
+      "end": 89.163563,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "α",
+      "word": "αφετηρία",
+      "start": 89.163563,
+      "end": 89.209393,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "φε",
+      "word": "αφετηρία",
+      "start": 89.209393,
+      "end": 89.349139,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "τη",
+      "word": "αφετηρία",
+      "start": 89.349139,
+      "end": 89.569952,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ρία",
+      "word": "αφετηρία",
+      "start": 89.569952,
+      "end": 89.818499,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "Ο",
+      "word": "Ο",
+      "start": 90.285124,
+      "end": 90.405947,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "φό",
+      "word": "φόβος",
+      "start": 90.405947,
+      "end": 90.554503,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "βος",
+      "word": "φόβος",
+      "start": 90.554503,
+      "end": 90.741986,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "εί",
+      "word": "είναι",
+      "start": 90.741986,
+      "end": 90.836380,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ναι",
+      "word": "είναι",
+      "start": 90.836380,
+      "end": 90.919706,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "φυ",
+      "word": "φυλακή",
+      "start": 90.919706,
+      "end": 91.053027,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "λα",
+      "word": "φυλακή",
+      "start": 91.053027,
+      "end": 91.194681,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "κή",
+      "word": "φυλακή",
+      "start": 91.194681,
+      "end": 91.459417,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "Τα",
+      "word": "Ταξίδι",
+      "start": 91.459417,
+      "end": 91.613569,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ξί",
+      "word": "Ταξίδι",
+      "start": 91.613569,
+      "end": 91.774624,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "δι",
+      "word": "Ταξίδι",
+      "start": 91.774624,
+      "end": 91.841285,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "προς",
+      "word": "προς",
+      "start": 91.841285,
+      "end": 92.051264,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "το",
+      "word": "το",
+      "start": 92.051264,
+      "end": 92.142606,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ά",
+      "word": "άγνωστο",
+      "start": 92.142606,
+      "end": 92.202121,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "γνω",
+      "word": "άγνωστο",
+      "start": 92.202121,
+      "end": 92.349446,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "στο",
+      "word": "άγνωστο",
+      "start": 92.349446,
+      "end": 92.526236,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ε",
+      "word": "ελευθερία",
+      "start": 92.526236,
+      "end": 92.614631,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "λευ",
+      "word": "ελευθερία",
+      "start": 92.614631,
+      "end": 92.732491,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "θε",
+      "word": "ελευθερία",
+      "start": 92.732491,
+      "end": 92.926959,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ρί",
+      "word": "ελευθερία",
+      "start": 92.926959,
+      "end": 93.034968,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "α",
+      "word": "ελευθερία",
+      "start": 93.034968,
+      "end": 93.185239,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "Οι",
+      "word": "Οι",
+      "start": 93.610457,
+      "end": 93.743050,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "rap",
+      "word": "rappers",
+      "start": 93.743050,
+      "end": 93.852318,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "pers",
+      "word": "rappers",
+      "start": 93.852318,
+      "end": 94.002589,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "με",
+      "word": "μετράμε",
+      "start": 94.002589,
+      "end": 94.107651,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "τρά",
+      "word": "μετράμε",
+      "start": 94.107651,
+      "end": 94.275602,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "με",
+      "word": "μετράμε",
+      "start": 94.275602,
+      "end": 94.362647,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "το",
+      "word": "το",
+      "start": 94.362647,
+      "end": 94.477561,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "μπό",
+      "word": "μπόι",
+      "start": 94.477561,
+      "end": 94.733231,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ι",
+      "word": "μπόι",
+      "start": 94.733231,
+      "end": 94.801001,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "μας",
+      "word": "μας",
+      "start": 94.801001,
+      "end": 95.064836,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "Τα",
+      "word": "Τα",
+      "start": 95.146664,
+      "end": 95.246845,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "παι",
+      "word": "παιχνίδια",
+      "start": 95.246845,
+      "end": 95.381372,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "χνί",
+      "word": "παιχνίδια",
+      "start": 95.381372,
+      "end": 95.496285,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "δια",
+      "word": "παιχνίδια",
+      "start": 95.496285,
+      "end": 95.663223,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "μας",
+      "word": "μας",
+      "start": 95.663223,
+      "end": 95.810548,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "και",
+      "word": "και",
+      "start": 95.810548,
+      "end": 95.912664,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "τα",
+      "word": "τα",
+      "start": 95.912664,
+      "end": 96.001059,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "στο",
+      "word": "στολίδια",
+      "start": 96.001059,
+      "end": 96.186013,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "λί",
+      "word": "στολίδια",
+      "start": 96.186013,
+      "end": 96.345124,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "δια",
+      "word": "στολίδια",
+      "start": 96.345124,
+      "end": 96.547083,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "μας",
+      "word": "μας",
+      "start": 96.547083,
+      "end": 96.765124,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "Α",
+      "word": "Αριθμούς",
+      "start": 96.765124,
+      "end": 96.880960,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ρι",
+      "word": "Αριθμούς",
+      "start": 96.880960,
+      "end": 97.051182,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "θμούς",
+      "word": "Αριθμούς",
+      "start": 97.051182,
+      "end": 97.185709,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "σε",
+      "word": "σε",
+      "start": 97.185709,
+      "end": 97.259372,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "πλατ",
+      "word": "πλατφόρμες",
+      "start": 97.259372,
+      "end": 97.459733,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "φορ",
+      "word": "πλατφόρμες",
+      "start": 97.459733,
+      "end": 97.601165,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "μες",
+      "word": "πλατφόρμες",
+      "start": 97.601165,
+      "end": 97.757330,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "και",
+      "word": "και",
+      "start": 97.757330,
+      "end": 97.862392,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "γή",
+      "word": "γήπεδα",
+      "start": 97.862392,
+      "end": 98.012663,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "πε",
+      "word": "γήπεδα",
+      "start": 98.012663,
+      "end": 98.161248,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "δα",
+      "word": "γήπεδα",
+      "start": 98.161248,
+      "end": 98.302680,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "Λες",
+      "word": "Λες",
+      "start": 98.454548,
+      "end": 98.619552,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "και",
+      "word": "και",
+      "start": 98.619552,
+      "end": 98.691191,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "παίρ",
+      "word": "παίρνουν",
+      "start": 98.691191,
+      "end": 98.867980,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "νουν",
+      "word": "παίρνουν",
+      "start": 98.8679805,
+      "end": 99.029026,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "α",
+      "word": "αξία",
+      "start": 99.029026,
+      "end": 99.093849,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ξί",
+      "word": "αξία",
+      "start": 99.093849,
+      "end": 99.294211,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "α",
+      "word": "αξία",
+      "start": 99.294211,
+      "end": 99.367873,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "τα",
+      "word": "τ'αρχίδια",
+      "start": 99.367873,
+      "end": 99.494572,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ρχί",
+      "word": "τ'αρχίδια",
+      "start": 99.494572,
+      "end": 99.700827,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "δια",
+      "word": "τ'αρχίδια",
+      "start": 99.700827,
+      "end": 99.923749,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "μας",
+      "word": "μας",
+      "start": 99.923749,
+      "end": 100.132950,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "Ά",
+      "word": "Άσε",
+      "start": 100.406211,
+      "end": 100.479873,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "σε",
+      "word": "Άσε",
+      "start": 100.479873,
+      "end": 100.593100,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "τα",
+      "word": "τα",
+      "start": 100.593100,
+      "end": 100.803561,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "rap",
+      "word": "rap",
+      "start": 100.803561,
+      "end": 100.998030,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "και",
+      "word": "και",
+      "start": 100.998030,
+      "end": 101.067397,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "τα",
+      "word": "τα",
+      "start": 101.067397,
+      "end": 101.220614,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "games",
+      "word": "games",
+      "start": 101.220614,
+      "end": 101.548936,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "σε",
+      "word": "σε",
+      "start": 101.548936,
+      "end": 101.616705,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "μέ",
+      "word": "μένα",
+      "start": 101.616705,
+      "end": 101.739109,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "να",
+      "word": "μένα",
+      "start": 101.739109,
+      "end": 101.818664,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "α",
+      "word": "αδερφέ",
+      "start": 101.818664,
+      "end": 101.859915,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "δερ",
+      "word": "αδερφέ",
+      "start": 101.859915,
+      "end": 101.979372,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "φέ",
+      "word": "αδερφέ",
+      "start": 101.979372,
+      "end": 102.235717,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "έ",
+      "word": "έλα",
+      "start": 102.235717,
+      "end": 102.367635,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "λα",
+      "word": "έλα",
+      "start": 102.367635,
+      "end": 102.461923,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "πες",
+      "word": "πες",
+      "start": 102.461923,
+      "end": 102.614466,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "την",
+      "word": "την",
+      "start": 102.614466,
+      "end": 102.738219,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "α",
+      "word": "αλήθεια",
+      "start": 102.738219,
+      "end": 102.858014,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "λή",
+      "word": "αλήθεια",
+      "start": 102.858014,
+      "end": 102.972927,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "θεια",
+      "word": "αλήθεια",
+      "start": 102.972927,
+      "end": 103.189956,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "μας",
+      "word": "μας",
+      "start": 103.1899565,
+      "end": 103.393264,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "Η",
+      "word": "Η",
+      "start": 103.575272,
+      "end": 103.643042,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "α",
+      "word": "αγάπη",
+      "start": 103.643042,
+      "end": 103.707865,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "γά",
+      "word": "αγάπη",
+      "start": 103.707865,
+      "end": 103.828671,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "πη",
+      "word": "αγάπη",
+      "start": 103.828671,
+      "end": 103.926828,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "του",
+      "word": "του",
+      "start": 103.926828,
+      "end": 104.044688,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "κό",
+      "word": "κόσμου",
+      "start": 104.044688,
+      "end": 104.220466,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "σμου",
+      "word": "κόσμου",
+      "start": 104.220466,
+      "end": 104.379577,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ναι",
+      "word": "'ναι",
+      "start": 104.379577,
+      "end": 104.470244,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ντό",
+      "word": "ντόπα",
+      "start": 104.4702445,
+      "end": 104.649980,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "πα",
+      "word": "ντόπα",
+      "start": 104.649980,
+      "end": 104.822811,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "Για",
+      "word": "Γιατί",
+      "start": 104.972071,
+      "end": 105.128235,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "τί",
+      "word": "Γιατί",
+      "start": 105.128235,
+      "end": 105.227404,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "δεν",
+      "word": "δεν",
+      "start": 105.227404,
+      "end": 105.357050,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "πή",
+      "word": "πήραμε",
+      "start": 105.357050,
+      "end": 105.482400,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "ρα",
+      "word": "πήραμε",
+      "start": 105.482400,
+      "end": 105.614992,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "με",
+      "word": "πήραμε",
+      "start": 105.614992,
+      "end": 105.724013,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "τόσ",
+      "word": "τόσ'",
+      "start": 105.724013,
+      "end": 105.938433,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "απ",
+      "word": "απ'",
+      "start": 105.938433,
+      "end": 106.032720,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "τα",
+      "word": "τα",
+      "start": 106.032720,
+      "end": 106.145610,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "σπί",
+      "word": "σπίτια",
+      "start": 106.145610,
+      "end": 106.331239,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "τια",
+      "word": "σπίτια",
+      "start": 106.331239,
+      "end": 106.510976,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "μας",
+      "word": "μας",
+      "start": 106.510976,
+      "end": 106.714284,
+      "section": "verse_1"
+    },
+    {
+      "level": "syllable",
+      "label": "Τι",
+      "word": "Τί",
+      "start": 133.547333,
+      "end": 133.650461,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ναυτ",
+      "word": "(εί)ν'αυτ'",
+      "start": 133.650461,
+      "end": 133.809571,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "η",
+      "word": "η",
+      "start": 133.809571,
+      "end": 133.856715,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "μου",
+      "word": "μουσική",
+      "start": 133.856715,
+      "end": 133.986361,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "σι",
+      "word": "μουσική",
+      "start": 133.986361,
+      "end": 134.176534,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "κή",
+      "word": "μουσική",
+      "start": 134.176534,
+      "end": 134.282608,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "που",
+      "word": "που",
+      "start": 134.282608,
+      "end": 134.434814,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "α",
+      "word": "ακούς",
+      "start": 134.434814,
+      "end": 134.526156,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "κούς",
+      "word": "ακούς",
+      "start": 134.526156,
+      "end": 134.919637,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "Δεν",
+      "word": "Δεν",
+      "start": 135.251490,
+      "end": 135.366403,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ται",
+      "word": "ταιριάζει",
+      "start": 135.366403,
+      "end": 135.442000,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ρια",
+      "word": "ταιριάζει",
+      "start": 135.442000,
+      "end": 135.660041,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ζει",
+      "word": "ταιριάζει",
+      "start": 135.660041,
+      "end": 135.727810,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "με",
+      "word": "με",
+      "start": 135.727810,
+      "end": 135.851563,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "την",
+      "word": "την",
+      "start": 135.851563,
+      "end": 136.038453,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "η",
+      "word": "ηλικία",
+      "start": 136.038453,
+      "end": 136.097382,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "λι",
+      "word": "ηλικία",
+      "start": 136.097382,
+      "end": 136.320304,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "κί",
+      "word": "ηλικία",
+      "start": 136.320304,
+      "end": 136.511827,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "α",
+      "word": "ηλικία",
+      "start": 136.511827,
+      "end": 136.606115,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "σου",
+      "word": "σου",
+      "start": 136.606115,
+      "end": 137.006838,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "Ά",
+      "word": "Άλλοι",
+      "start": 137.101374,
+      "end": 137.219234,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "λλοι",
+      "word": "Άλλοι",
+      "start": 137.219234,
+      "end": 137.306280,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "χουν",
+      "word": "'χουν",
+      "start": 137.306280,
+      "end": 137.415300,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "σπί",
+      "word": "σπίτι",
+      "start": 137.415300,
+      "end": 137.653966,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "τι",
+      "word": "σπίτι",
+      "start": 137.653966,
+      "end": 137.754147,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "και",
+      "word": "και",
+      "start": 137.754147,
+      "end": 137.897514,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "δύο",
+      "word": "δύο",
+      "start": 137.897514,
+      "end": 138.130287,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "παι",
+      "word": "παιδιά",
+      "start": 138.130287,
+      "end": 138.260855,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "δια",
+      "word": "παιδιά",
+      "start": 138.260855,
+      "end": 138.481843,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "εί",
+      "word": "είσαι",
+      "start": 138.481843,
+      "end": 138.567876,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "σαι",
+      "word": "είσαι",
+      "start": 138.567876,
+      "end": 138.682790,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "πλέ",
+      "word": "πλέον",
+      "start": 138.682790,
+      "end": 138.864123,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ον",
+      "word": "πλέον",
+      "start": 138.864123,
+      "end": 138.940732,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "στα",
+      "word": "στα",
+      "start": 138.940732,
+      "end": 139.115498,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "τρι",
+      "word": "τριάντα-τρία",
+      "start": 139.115498,
+      "end": 139.271663,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "α",
+      "word": "τριάντα-τρία",
+      "start": 139.271663,
+      "end": 139.333539,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ντα",
+      "word": "τριάντα-τρία",
+      "start": 139.333539,
+      "end": 139.495596,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "τρι",
+      "word": "τριάντα-τρία",
+      "start": 139.495596,
+      "end": 139.722477,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "α",
+      "word": "τριάντα-τρία",
+      "start": 139.722477,
+      "end": 139.834444,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "σου",
+      "word": "σου",
+      "start": 139.834444,
+      "end": 140.046591,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "Τι",
+      "word": "Τί",
+      "start": 140.245852,
+      "end": 140.316568,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ναυ",
+      "word": "(εί)ν'αυτά",
+      "start": 140.316568,
+      "end": 140.463893,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "τα",
+      "word": "(εί)ν'αυτά",
+      "start": 140.463893,
+      "end": 140.534609,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "τα",
+      "word": "τα",
+      "start": 140.534609,
+      "end": 140.631843,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "μαλ",
+      "word": "μαλλιά",
+      "start": 140.631843,
+      "end": 140.814526,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "λια",
+      "word": "μαλλιά",
+      "start": 140.814526,
+      "end": 140.966057,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "και",
+      "word": "και",
+      "start": 140.966057,
+      "end": 141.048559,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "τα",
+      "word": "τα",
+      "start": 141.048559,
+      "end": 141.224337,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ρού",
+      "word": "ρούχα",
+      "start": 141.224337,
+      "end": 141.398180,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "χα",
+      "word": "ρούχα",
+      "start": 141.398180,
+      "end": 141.645686,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "Για",
+      "word": "Γιατί",
+      "start": 141.917349,
+      "end": 142.014584,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "τί",
+      "word": "Γιατί",
+      "start": 142.014584,
+      "end": 142.095736,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "πά",
+      "word": "πάλι",
+      "start": 142.095736,
+      "end": 142.257794,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "λι",
+      "word": "πάλι",
+      "start": 142.257794,
+      "end": 142.314362,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "χα",
+      "word": "χαλάς",
+      "start": 142.314362,
+      "end": 142.464634,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "λάς",
+      "word": "χαλάς",
+      "start": 142.464634,
+      "end": 142.678379,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "τα",
+      "word": "τα",
+      "start": 142.678379,
+      "end": 142.740255,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "λε",
+      "word": "λεφτά",
+      "start": 142.740255,
+      "end": 142.827638,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "φτά",
+      "word": "λεφτά",
+      "start": 142.827638,
+      "end": 143.089876,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "σου",
+      "word": "σου",
+      "start": 143.089876,
+      "end": 143.492535,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "Ά",
+      "word": "Άντε",
+      "start": 143.764872,
+      "end": 143.859160,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ντε",
+      "word": "Άντε",
+      "start": 143.859160,
+      "end": 143.938716,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "μα",
+      "word": "μαζέψου",
+      "start": 143.938716,
+      "end": 144.147917,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ζέ",
+      "word": "μαζέψου",
+      "start": 144.147917,
+      "end": 144.302395,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ψου",
+      "word": "μαζέψου",
+      "start": 144.302395,
+      "end": 144.485078,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "δεν",
+      "word": "δεν",
+      "start": 144.485078,
+      "end": 144.586856,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "εί",
+      "word": "είσαι",
+      "start": 144.586856,
+      "end": 144.687037,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "σαι",
+      "word": "είσαι",
+      "start": 144.687037,
+      "end": 144.800601,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "παι",
+      "word": "παιδί",
+      "start": 144.800601,
+      "end": 144.992123,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "δί",
+      "word": "παιδί",
+      "start": 144.992123,
+      "end": 145.164954,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "Ό",
+      "word": "Ό,τι",
+      "start": 145.164954,
+      "end": 145.263786,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "τι",
+      "word": "ό,τι",
+      "start": 145.263786,
+      "end": 145.361020,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "σου",
+      "word": "σου",
+      "start": 145.361020,
+      "end": 145.458255,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "πα",
+      "word": "'πα",
+      "start": 145.458255,
+      "end": 145.587901,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "θα",
+      "word": "θα",
+      "start": 145.587901,
+      "end": 145.725374,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "το",
+      "word": "το",
+      "start": 145.725374,
+      "end": 145.866806,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "βρεις",
+      "word": "βρεις",
+      "start": 145.866806,
+      "end": 146.009835,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "μπρο",
+      "word": "μπροστά",
+      "start": 146.009835,
+      "end": 146.166000,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "στά",
+      "word": "μπροστά",
+      "start": 146.166000,
+      "end": 146.400370,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "σου",
+      "word": "σου",
+      "start": 146.400370,
+      "end": 146.680287,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "Κά",
+      "word": "Κάνε",
+      "start": 147.011555,
+      "end": 147.176559,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "νε",
+      "word": "Κάνε",
+      "start": 147.176559,
+      "end": 147.245588,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "μου",
+      "word": "μου",
+      "start": 147.245588,
+      "end": 147.392913,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "λί",
+      "word": "λίγο",
+      "start": 147.392913,
+      "end": 147.535605,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "γο",
+      "word": "λίγο",
+      "start": 147.535605,
+      "end": 147.629893,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "πιο",
+      "word": "πιο",
+      "start": 147.629893,
+      "end": 147.800790,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "πέ",
+      "word": "πέρα",
+      "start": 147.800790,
+      "end": 148.068921,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ρα",
+      "word": "πέρα",
+      "start": 148.068921,
+      "end": 148.230551,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "Για",
+      "word": "Γιατί",
+      "start": 148.497333,
+      "end": 148.591621,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "τί",
+      "word": "Γιατί",
+      "start": 148.591621,
+      "end": 148.687844,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "κά",
+      "word": "κάπως",
+      "start": 148.687844,
+      "end": 148.820436,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "πως",
+      "word": "κάπως",
+      "start": 148.820436,
+      "end": 148.972642,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "στε",
+      "word": "στερείς",
+      "start": 148.972642,
+      "end": 149.143539,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ρείς",
+      "word": "στερείς",
+      "start": 149.143539,
+      "end": 149.283622,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "την",
+      "word": "την",
+      "start": 149.283622,
+      "end": 149.383802,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "α",
+      "word": "ανάσα",
+      "start": 149.383802,
+      "end": 149.509827,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "νά",
+      "word": "ανάσα",
+      "start": 149.509827,
+      "end": 149.733761,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "σα",
+      "word": "ανάσα",
+      "start": 149.733761,
+      "end": 149.950453,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "μου",
+      "word": "μου",
+      "start": 149.950453,
+      "end": 150.215637,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "Κιε",
+      "word": "Κι έχω",
+      "start": 150.348478,
+      "end": 150.507589,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "χω",
+      "word": "Κι έχω",
+      "start": 150.507589,
+      "end": 150.603811,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "και",
+      "word": "και",
+      "start": 150.603811,
+      "end": 150.794659,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "άσθ",
+      "word": "άσθμα",
+      "start": 150.794659,
+      "end": 151.074576,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "μα",
+      "word": "άσθμα",
+      "start": 151.074576,
+      "end": 151.155729,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "Αν",
+      "word": "Αν",
+      "start": 151.155729,
+      "end": 151.241177,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "μπω",
+      "word": "μπω",
+      "start": 151.241177,
+      "end": 151.342955,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "σε",
+      "word": "σε",
+      "start": 151.342955,
+      "end": 151.446083,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "κου",
+      "word": "κουτί",
+      "start": 151.446083,
+      "end": 151.583556,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "τί",
+      "word": "κουτί",
+      "start": 151.583556,
+      "end": 151.730881,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "τό",
+      "word": "τότε",
+      "start": 151.730881,
+      "end": 151.844782,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "τε",
+      "word": "τότε",
+      "start": 151.844782,
+      "end": 151.936124,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "στά",
+      "word": "στάνταρ",
+      "start": 151.936124,
+      "end": 152.126634,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "νταρ",
+      "word": "στάνταρ",
+      "start": 152.126634,
+      "end": 152.268066,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "θα",
+      "word": "θα",
+      "start": 152.268066,
+      "end": 152.352502,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "γί",
+      "word": "γίνει",
+      "start": 152.352502,
+      "end": 152.608848,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "νει",
+      "word": "γίνει",
+      "start": 152.608848,
+      "end": 152.729654,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "η",
+      "word": "η",
+      "start": 152.729654,
+      "end": 152.779745,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "κά",
+      "word": "κάσα",
+      "start": 152.779745,
+      "end": 153.036090,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "σα",
+      "word": "κάσα",
+      "start": 153.036090,
+      "end": 153.267514,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "μου",
+      "word": "μου",
+      "start": 153.267514,
+      "end": 153.503234,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "Κά",
+      "word": "Κάπως",
+      "start": 153.628246,
+      "end": 153.796197,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "πως",
+      "word": "Κάπως",
+      "start": 153.796197,
+      "end": 153.918600,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "στε",
+      "word": "στερείς",
+      "start": 153.918600,
+      "end": 154.051193,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ρείς",
+      "word": "στερείς",
+      "start": 154.051193,
+      "end": 154.223012,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "τον",
+      "word": "τον",
+      "start": 154.223012,
+      "end": 154.408642,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "α",
+      "word": "αέρα",
+      "start": 154.408642,
+      "end": 154.553020,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "έ",
+      "word": "αέρα",
+      "start": 154.553020,
+      "end": 154.706238,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ρα",
+      "word": "αέρα",
+      "start": 154.706238,
+      "end": 154.885974,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "μου",
+      "word": "μου",
+      "start": 154.885974,
+      "end": 155.092229,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "Πνι",
+      "word": "Πνιγείς",
+      "start": 155.294436,
+      "end": 155.459440,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "γείς",
+      "word": "Πνιγείς",
+      "start": 155.459440,
+      "end": 155.571407,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "την",
+      "word": "την",
+      "start": 155.571407,
+      "end": 155.793991,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ε",
+      "word": "ελευθερία",
+      "start": 155.793991,
+      "end": 155.900065,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "λευ",
+      "word": "ελευθερία",
+      "start": 155.900065,
+      "end": 156.030296,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "θε",
+      "word": "ελευθερία",
+      "start": 156.030296,
+      "end": 156.248337,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ρί",
+      "word": "ελευθερία",
+      "start": 156.248337,
+      "end": 156.401555,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "α",
+      "word": "ελευθερία",
+      "start": 156.401555,
+      "end": 156.513522,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "μου",
+      "word": "μου",
+      "start": 156.513522,
+      "end": 156.765909,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "Ό",
+      "word": "Όταν",
+      "start": 157.043802,
+      "end": 157.117465,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ταν",
+      "word": "Όταν",
+      "start": 157.117465,
+      "end": 157.255950,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "α",
+      "word": "ακούω",
+      "start": 157.255950,
+      "end": 157.362024,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "κούω",
+      "word": "ακούω",
+      "start": 157.362024,
+      "end": 157.537464,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "συμ",
+      "word": "συμβουλές",
+      "start": 157.537464,
+      "end": 157.680493,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "βου",
+      "word": "συμβουλές",
+      "start": 157.680493,
+      "end": 157.854337,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "λές",
+      "word": "συμβουλές",
+      "start": 157.854337,
+      "end": 158.017654,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "κά",
+      "word": "κάπως",
+      "start": 158.017654,
+      "end": 158.111942,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "πως",
+      "word": "κάπως",
+      "start": 158.111942,
+      "end": 158.263811,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "βρά",
+      "word": "βράζει",
+      "start": 158.263811,
+      "end": 158.478905,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ζει",
+      "word": "βράζει",
+      "start": 158.478905,
+      "end": 158.666806,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "το",
+      "word": "το",
+      "start": 158.666806,
+      "end": 158.725736,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "αί",
+      "word": "αίμα",
+      "start": 158.725736,
+      "end": 158.803942,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "μα",
+      "word": "αίμα",
+      "start": 158.803942,
+      "end": 158.927695,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "στην",
+      "word": "στην",
+      "start": 158.927695,
+      "end": 159.100526,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "καθ",
+      "word": "κάθ'",
+      "start": 159.100526,
+      "end": 159.260897,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "αρ",
+      "word": "αρτηρία",
+      "start": 159.260897,
+      "end": 159.378757,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "τη",
+      "word": "αρτηρία",
+      "start": 159.378757,
+      "end": 159.537868,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ρί",
+      "word": "αρτηρία",
+      "start": 159.537868,
+      "end": 159.669111,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "α",
+      "word": "αρτηρία",
+      "start": 159.669111,
+      "end": 159.807596,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "μου",
+      "word": "μου",
+      "start": 159.807596,
+      "end": 160.006272,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "Πε",
+      "word": "Περιμένουμε",
+      "start": 160.164371,
+      "end": 160.285177,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ρι",
+      "word": "Περιμένουμε",
+      "start": 160.285177,
+      "end": 160.351934,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "μέ",
+      "word": "Περιμένουμε",
+      "start": 160.351934,
+      "end": 160.522831,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "νου",
+      "word": "Περιμένουμε",
+      "start": 160.522831,
+      "end": 160.587654,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "με",
+      "word": "Περιμένουμε",
+      "start": 160.587654,
+      "end": 160.658370,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "α",
+      "word": "ακόμα",
+      "start": 160.658370,
+      "end": 160.728074,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "κομ",
+      "word": "ακόμ'",
+      "start": 160.728074,
+      "end": 160.933317,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "α",
+      "word": "αδερφέ",
+      "start": 160.933317,
+      "end": 161.018765,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "δερ",
+      "word": "αδερφέ",
+      "start": 161.018765,
+      "end": 161.251539,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "φέ",
+      "word": "αδερφέ",
+      "start": 161.251539,
+      "end": 161.429926,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "Στο",
+      "word": "Στο",
+      "start": 161.880651,
+      "end": 162.039761,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "βαν",
+      "word": "βαν",
+      "start": 162.039761,
+      "end": 162.184140,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "έ",
+      "word": "έχει",
+      "start": 162.184140,
+      "end": 162.275481,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "χει",
+      "word": "έχει",
+      "start": 162.275481,
+      "end": 162.424066,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "θέ",
+      "word": "θέση",
+      "start": 162.424066,
+      "end": 162.592016,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ση",
+      "word": "θέση",
+      "start": 162.592016,
+      "end": 162.702634,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "για",
+      "word": "για",
+      "start": 162.702634,
+      "end": 162.820494,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "πάρ",
+      "word": "πάρτη",
+      "start": 162.820494,
+      "end": 163.056214,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "τη",
+      "word": "πάρτη",
+      "start": 163.056214,
+      "end": 163.159341,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "σου",
+      "word": "σου",
+      "start": 163.159341,
+      "end": 163.418633,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "Εί",
+      "word": "Είναι",
+      "start": 163.576980,
+      "end": 163.677161,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ναι",
+      "word": "Είναι",
+      "start": 163.677161,
+      "end": 163.744255,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "σαν",
+      "word": "σαν",
+      "start": 163.744255,
+      "end": 163.897473,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "να",
+      "word": "να",
+      "start": 163.897473,
+      "end": 163.973408,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "μας",
+      "word": "μας",
+      "start": 163.973408,
+      "end": 164.159037,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "έ",
+      "word": "έχεις",
+      "start": 164.159037,
+      "end": 164.232699,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "χεις",
+      "word": "έχεις",
+      "start": 164.232699,
+      "end": 164.362345,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "προ",
+      "word": "προλάβει",
+      "start": 164.362345,
+      "end": 164.528609,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "λά",
+      "word": "προλάβει",
+      "start": 164.528609,
+      "end": 164.743703,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "βει",
+      "word": "προλάβει",
+      "start": 164.743703,
+      "end": 164.902140,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "Και",
+      "word": "Και",
+      "start": 165.098206,
+      "end": 165.230798,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "στο",
+      "word": "στο",
+      "start": 165.230798,
+      "end": 165.360444,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "live",
+      "word": "live",
+      "start": 165.360444,
+      "end": 165.498929,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "θα",
+      "word": "θα",
+      "start": 165.498929,
+      "end": 165.627226,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "πού",
+      "word": "πούμε",
+      "start": 165.627226,
+      "end": 165.818748,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "με",
+      "word": "πούμε",
+      "start": 165.818748,
+      "end": 165.916905,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "το",
+      "word": "το",
+      "start": 165.916905,
+      "end": 166.017086,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "κομ",
+      "word": "κομμάτι",
+      "start": 166.017086,
+      "end": 166.160453,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "μά",
+      "word": "κομμάτι",
+      "start": 166.160453,
+      "end": 166.354921,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "τι",
+      "word": "κομμάτι",
+      "start": 166.354921,
+      "end": 166.467136,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "σου",
+      "word": "σου",
+      "start": 166.467136,
+      "end": 166.667498,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "Απ",
+      "word": "Απ'",
+      "start": 166.912057,
+      "end": 166.984708,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "το",
+      "word": "το",
+      "start": 166.984708,
+      "end": 167.070156,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "crew",
+      "word": "crew",
+      "start": 167.070156,
+      "end": 167.232214,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "που",
+      "word": "που",
+      "start": 167.232214,
+      "end": 167.364806,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "α",
+      "word": "αγάπησες",
+      "start": 167.364806,
+      "end": 167.447308,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "γά",
+      "word": "αγάπησες",
+      "start": 167.447308,
+      "end": 167.624098,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "πη",
+      "word": "αγάπησες",
+      "start": 167.624098,
+      "end": 167.705250,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "σες",
+      "word": "αγάπησες",
+      "start": 167.705250,
+      "end": 167.929184,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "Άρ",
+      "word": "Άρτσι",
+      "start": 167.929184,
+      "end": 168.126847,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "τσι",
+      "word": "Άρτσι",
+      "start": 168.126847,
+      "end": 168.274172,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "Θα",
+      "word": "Θα",
+      "start": 168.502313,
+      "end": 168.643744,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "χο",
+      "word": "χορεύεις",
+      "start": 168.643744,
+      "end": 168.751416,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ρεύ",
+      "word": "χορεύεις",
+      "start": 168.751416,
+      "end": 168.872222,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "εις",
+      "word": "χορεύεις",
+      "start": 168.872222,
+      "end": 168.969456,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "το",
+      "word": "το",
+      "start": 168.969456,
+      "end": 169.087316,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "νιω",
+      "word": "νιώθεις",
+      "start": 169.087316,
+      "end": 169.249374,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "θεις",
+      "word": "νιώθεις",
+      "start": 169.249374,
+      "end": 169.429110,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "α",
+      "word": "ακόμα",
+      "start": 169.429110,
+      "end": 169.509251,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "κό",
+      "word": "ακόμα",
+      "start": 169.509251,
+      "end": 169.721398,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "μα",
+      "word": "ακόμα",
+      "start": 169.721398,
+      "end": 169.913843,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "Ε",
+      "word": "Εμείς",
+      "start": 170.244774,
+      "end": 170.380313,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "μείς",
+      "word": "Εμείς",
+      "start": 170.380313,
+      "end": 170.497160,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "δεν",
+      "word": "δεν",
+      "start": 170.497160,
+      "end": 170.615020,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ξε",
+      "word": "ξεχνάμ'",
+      "start": 170.615020,
+      "end": 170.731531,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "χναμ",
+      "word": "ξεχνάμ'",
+      "start": 170.731531,
+      "end": 171.022222,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "Η",
+      "word": "Η",
+      "start": 171.022222,
+      "end": 171.092938,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ψυ",
+      "word": "ψυχή",
+      "start": 171.092938,
+      "end": 171.207852,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "χή",
+      "word": "ψυχή",
+      "start": 171.207852,
+      "end": 171.315860,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "δεν",
+      "word": "δεν",
+      "start": 171.315860,
+      "end": 171.401308,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "πε",
+      "word": "πεθαίνει",
+      "start": 171.401308,
+      "end": 171.536847,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "θαί",
+      "word": "πεθαίνει",
+      "start": 171.536847,
+      "end": 171.769621,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "νει",
+      "word": "πεθαίνει",
+      "start": 171.769621,
+      "end": 171.854057,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "κιας",
+      "word": "κι ας",
+      "start": 171.854057,
+      "end": 172.063258,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ε",
+      "word": "εγκαταλείψει",
+      "start": 172.063258,
+      "end": 172.118230,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "γκα",
+      "word": "εγκαταλείψει",
+      "start": 172.118230,
+      "end": 172.233143,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "τα",
+      "word": "εγκαταλείψει",
+      "start": 172.233143,
+      "end": 172.387958,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "λεί",
+      "word": "εγκαταλείψει",
+      "start": 172.387958,
+      "end": 172.514658,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ψει",
+      "word": "εγκαταλείψει",
+      "start": 172.514658,
+      "end": 172.677975,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "το",
+      "word": "το",
+      "start": 172.677975,
+      "end": 172.798781,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "σώ",
+      "word": "σώμα",
+      "start": 172.798781,
+      "end": 173.025662,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "μα",
+      "word": "σώμα",
+      "start": 173.025662,
+      "end": 173.237810,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "Γυ",
+      "word": "Γυρίζω",
+      "start": 173.606370,
+      "end": 173.709497,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ρί",
+      "word": "Γυρίζω",
+      "start": 173.709497,
+      "end": 173.810601,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ζω",
+      "word": "Γυρίζω",
+      "start": 173.810601,
+      "end": 173.928461,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "στον",
+      "word": "στον",
+      "start": 173.928461,
+      "end": 174.062650,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "δρό",
+      "word": "δρόμο",
+      "start": 174.062650,
+      "end": 174.265958,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "μο",
+      "word": "δρόμο",
+      "start": 174.265958,
+      "end": 174.347111,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "σαν",
+      "word": "σαν",
+      "start": 174.347111,
+      "end": 174.535687,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "αί",
+      "word": "αίλουρος",
+      "start": 174.535687,
+      "end": 174.712477,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "λου",
+      "word": "αίλουρος",
+      "start": 174.712477,
+      "end": 174.845069,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ρος",
+      "word": "αίλουρος",
+      "start": 174.845069,
+      "end": 175.012008,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "Με",
+      "word": "Με",
+      "start": 175.151416,
+      "end": 175.272222,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "τον",
+      "word": "τον",
+      "start": 175.272222,
+      "end": 175.419547,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ί",
+      "word": "ίδιο",
+      "start": 175.419547,
+      "end": 175.466691,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "διο",
+      "word": "ίδιο",
+      "start": 175.466691,
+      "end": 175.577646,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "θυ",
+      "word": "θυμό",
+      "start": 175.577646,
+      "end": 175.704345,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "μό",
+      "word": "θυμό",
+      "start": 175.704345,
+      "end": 175.866402,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "που",
+      "word": "που",
+      "start": 175.866402,
+      "end": 175.966583,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "χα",
+      "word": "'χα",
+      "start": 175.966583,
+      "end": 176.208196,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "έ",
+      "word": "έφηβος",
+      "start": 176.208196,
+      "end": 176.290698,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "φη",
+      "word": "έφηβος",
+      "start": 176.290698,
+      "end": 176.457547,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "βος",
+      "word": "έφηβος",
+      "start": 176.457547,
+      "end": 176.666748,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "Με",
+      "word": "Με",
+      "start": 176.814996,
+      "end": 176.926963,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "πλη",
+      "word": "πληγώσαν",
+      "start": 176.926963,
+      "end": 177.083127,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "γώ",
+      "word": "πληγώσαν",
+      "start": 177.083127,
+      "end": 177.183308,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "σαν",
+      "word": "πληγώσαν",
+      "start": 177.183308,
+      "end": 177.389563,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "οι",
+      "word": "οι",
+      "start": 177.389563,
+      "end": 177.442600,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "νύ",
+      "word": "νύχτες",
+      "start": 177.442600,
+      "end": 177.567613,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "χτες",
+      "word": "νύχτες",
+      "start": 177.567613,
+      "end": 177.741456,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "γιαυ",
+      "word": "γι'αυτό",
+      "start": 177.741456,
+      "end": 177.877917,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "τό",
+      "word": "γι'αυτό",
+      "start": 177.877917,
+      "end": 177.975152,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "κά",
+      "word": "κάθε",
+      "start": 177.975152,
+      "end": 178.090065,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "θε",
+      "word": "κάθε",
+      "start": 178.090065,
+      "end": 178.211794,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "βρά",
+      "word": "βράδυ",
+      "start": 178.211794,
+      "end": 178.412156,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "δυ",
+      "word": "βράδυ",
+      "start": 178.412156,
+      "end": 178.500551,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "γυ",
+      "word": "γυρίζω",
+      "start": 178.500551,
+      "end": 178.612518,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ρί",
+      "word": "γυρίζω",
+      "start": 178.612518,
+      "end": 178.740814,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ζω",
+      "word": "γυρίζω",
+      "start": 178.740814,
+      "end": 178.888139,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ξα",
+      "word": "ξανά",
+      "start": 178.888139,
+      "end": 179.058024,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "νά",
+      "word": "ξανά",
+      "start": 179.058024,
+      "end": 179.249547,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "μες",
+      "word": "μέσ'",
+      "start": 179.249547,
+      "end": 179.368329,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "το",
+      "word": "το",
+      "start": 179.3683295,
+      "end": 179.483242,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "κέ",
+      "word": "κέλυφος",
+      "start": 179.483242,
+      "end": 179.593185,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "λυ",
+      "word": "κέλυφος",
+      "start": 179.593185,
+      "end": 179.705152,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "φος",
+      "word": "κέλυφος",
+      "start": 179.705152,
+      "end": 179.952658,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "Με",
+      "word": "Μετά",
+      "start": 180.374930,
+      "end": 180.463325,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "τά",
+      "word": "Μετά",
+      "start": 180.463325,
+      "end": 180.580173,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ξα",
+      "word": "ξαπλώνω",
+      "start": 180.580173,
+      "end": 180.706872,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "πλώ",
+      "word": "ξαπλώνω",
+      "start": 180.706872,
+      "end": 180.898394,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "νω",
+      "word": "ξαπλώνω",
+      "start": 180.898394,
+      "end": 180.975003,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "στα",
+      "word": "στα",
+      "start": 180.975003,
+      "end": 181.113489,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "πό",
+      "word": "πόδια",
+      "start": 181.113489,
+      "end": 181.293225,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "δια",
+      "word": "πόδια",
+      "start": 181.293225,
+      "end": 181.443070,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "σου",
+      "word": "σου",
+      "start": 181.443070,
+      "end": 181.575662,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "σαν",
+      "word": "σαν",
+      "start": 181.575662,
+      "end": 181.709514,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "τον",
+      "word": "τον",
+      "start": 181.709514,
+      "end": 181.803802,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "κο",
+      "word": "κοπρίτη",
+      "start": 181.803802,
+      "end": 181.929490,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "πρί",
+      "word": "κοπρίτη",
+      "start": 181.929490,
+      "end": 182.103333,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "τη",
+      "word": "κοπρίτη",
+      "start": 182.103333,
+      "end": 182.187770,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "που",
+      "word": "που",
+      "start": 182.187770,
+      "end": 182.308576,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "γυ",
+      "word": "γυρεύει",
+      "start": 182.308576,
+      "end": 182.500098,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ρεύ",
+      "word": "γυρεύει",
+      "start": 182.500098,
+      "end": 182.638584,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ει",
+      "word": "γυρεύει",
+      "start": 182.638584,
+      "end": 182.698099,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "χά",
+      "word": "χάδια",
+      "start": 182.698099,
+      "end": 182.939712,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "δια",
+      "word": "χάδια",
+      "start": 182.939712,
+      "end": 183.216682,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "Μου",
+      "word": "Μου",
+      "start": 183.541720,
+      "end": 183.700831,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "δί",
+      "word": "δίνεις",
+      "start": 183.700831,
+      "end": 183.806905,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "νεις",
+      "word": "δίνεις",
+      "start": 183.806905,
+      "end": 183.957176,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "α",
+      "word": "ασφάλεια",
+      "start": 183.957176,
+      "end": 184.037991,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "σφά",
+      "word": "ασφάλεια",
+      "start": 184.037991,
+      "end": 184.250139,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "λεια",
+      "word": "ασφάλεια",
+      "start": 184.250139,
+      "end": 184.349645,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "σαυ",
+      "word": "σ'αυτή",
+      "start": 184.3496455,
+      "end": 184.514649,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "τή",
+      "word": "σ'αυτή",
+      "start": 184.5146495,
+      "end": 184.589234,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "τη",
+      "word": "τη",
+      "start": 184.589234,
+      "end": 184.683522,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "φω",
+      "word": "φωλιά",
+      "start": 184.683522,
+      "end": 184.872098,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "λια",
+      "word": "φωλιά",
+      "start": 184.872098,
+      "end": 185.051834,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "Κιε",
+      "word": "Κι έτσι",
+      "start": 185.051834,
+      "end": 185.178534,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "τσι",
+      "word": "Κι έτσι",
+      "start": 185.178534,
+      "end": 185.291423,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "κά",
+      "word": "κάπως",
+      "start": 185.291423,
+      "end": 185.433103,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "πως",
+      "word": "κάπως",
+      "start": 185.433103,
+      "end": 185.553909,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "περ",
+      "word": "περνάν",
+      "start": 185.553909,
+      "end": 185.686502,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "νάν",
+      "word": "περνάν",
+      "start": 185.686502,
+      "end": 185.819094,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "τα",
+      "word": "τα",
+      "start": 185.819094,
+      "end": 185.907489,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "σκο",
+      "word": "σκοτάδια",
+      "start": 185.907489,
+      "end": 186.134369,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "τά",
+      "word": "σκοτάδια",
+      "start": 186.134369,
+      "end": 186.313094,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "δια",
+      "word": "σκοτάδια",
+      "start": 186.313094,
+      "end": 186.542921,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "Συ",
+      "word": "Συγχωρείς",
+      "start": 186.779811,
+      "end": 186.877045,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "γχω",
+      "word": "Συγχωρείς",
+      "start": 186.877045,
+      "end": 187.009638,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ρείς",
+      "word": "Συγχωρείς",
+      "start": 187.009638,
+      "end": 187.151070,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "και",
+      "word": "και",
+      "start": 187.151070,
+      "end": 187.303275,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "α",
+      "word": "αντέχεις",
+      "start": 187.303275,
+      "end": 187.391670,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ντέ",
+      "word": "αντέχεις",
+      "start": 187.391670,
+      "end": 187.525185,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "χεις",
+      "word": "αντέχεις",
+      "start": 187.525185,
+      "end": 187.637152,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "τα",
+      "word": "τα",
+      "start": 187.637152,
+      "end": 187.784477,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "λά",
+      "word": "λάθη",
+      "start": 187.784477,
+      "end": 187.955374,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "θη",
+      "word": "λάθη",
+      "start": 187.955374,
+      "end": 188.096806,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "μου",
+      "word": "μου",
+      "start": 188.096806,
+      "end": 188.320740,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "Για",
+      "word": "Γιατί",
+      "start": 188.449036,
+      "end": 188.581629,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "τί",
+      "word": "Γιατί",
+      "start": 188.581629,
+      "end": 188.661432,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "βλέ",
+      "word": "βλέπεις",
+      "start": 188.661432,
+      "end": 188.799917,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "πεις",
+      "word": "βλέπεις",
+      "start": 188.799917,
+      "end": 188.952123,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "πως",
+      "word": "πως",
+      "start": 188.952123,
+      "end": 189.067037,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "μοια",
+      "word": "μοιάζω",
+      "start": 189.067037,
+      "end": 189.260494,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ζω",
+      "word": "μοιάζω",
+      "start": 189.260494,
+      "end": 189.366567,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "σε",
+      "word": "σε",
+      "start": 189.366567,
+      "end": 189.469695,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "σέ",
+      "word": "σένα",
+      "start": 189.469695,
+      "end": 189.683440,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "να",
+      "word": "σένα",
+      "start": 189.683440,
+      "end": 189.869069,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "Απ'",
+      "word": "Απ'",
+      "start": 190.205893,
+      "end": 190.285448,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "τα",
+      "word": "τα",
+      "start": 190.285448,
+      "end": 190.372494,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "σφάλ",
+      "word": "σφάλματα",
+      "start": 190.372494,
+      "end": 190.575802,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "μα",
+      "word": "σφάλματα",
+      "start": 190.575802,
+      "end": 190.655357,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "τα",
+      "word": "σφάλματα",
+      "start": 190.655357,
+      "end": 190.749645,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "φτια",
+      "word": "φτιάξαμε",
+      "start": 190.749645,
+      "end": 190.916246,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ξα",
+      "word": "φτιάξαμε",
+      "start": 190.916246,
+      "end": 191.059613,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "με",
+      "word": "φτιάξαμε",
+      "start": 191.059613,
+      "end": 191.142115,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "θαύ",
+      "word": "θαύματα",
+      "start": 191.142115,
+      "end": 191.336584,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "μα",
+      "word": "θαύματα",
+      "start": 191.336584,
+      "end": 191.486855,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "τα",
+      "word": "θαύματα",
+      "start": 191.486855,
+      "end": 191.638724,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "χω",
+      "word": "χωρίς",
+      "start": 191.816773,
+      "end": 191.961152,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ρίς",
+      "word": "χωρίς",
+      "start": 191.961152,
+      "end": 192.063267,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "να",
+      "word": "να",
+      "start": 192.063267,
+      "end": 192.198806,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "χουμ",
+      "word": "'χουμ'",
+      "start": 192.198806,
+      "end": 192.330724,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "α",
+      "word": "ανάγκη",
+      "start": 192.330724,
+      "end": 192.415160,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "νά",
+      "word": "ανάγκη",
+      "start": 192.415160,
+      "end": 192.550699,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "γκη",
+      "word": "ανάγκη",
+      "start": 192.550699,
+      "end": 192.678996,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "κα",
+      "word": "κανένα",
+      "start": 192.678996,
+      "end": 192.852839,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "νέ",
+      "word": "κανένα",
+      "start": 192.852839,
+      "end": 193.002098,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "να",
+      "word": "κανένα",
+      "start": 193.002098,
+      "end": 193.287909,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "Κά",
+      "word": "Κάπως",
+      "start": 193.682650,
+      "end": 193.812296,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "πως",
+      "word": "Κάπως",
+      "start": 193.812296,
+      "end": 194.009037,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "μοια",
+      "word": "μοιάζεις",
+      "start": 194.009037,
+      "end": 194.162254,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ζεις",
+      "word": "μοιάζεις",
+      "start": 194.162254,
+      "end": 194.300740,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "στον",
+      "word": "στον",
+      "start": 194.300740,
+      "end": 194.468690,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "α",
+      "word": "αέρα",
+      "start": 194.468690,
+      "end": 194.582254,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "έ",
+      "word": "αέρα",
+      "start": 194.582254,
+      "end": 194.729579,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ρα",
+      "word": "αέρα",
+      "start": 194.729579,
+      "end": 194.857876,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "μου",
+      "word": "μου",
+      "start": 194.857876,
+      "end": 195.084756,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "Μοια",
+      "word": "Μοιάζεις",
+      "start": 195.296814,
+      "end": 195.553160,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ζεις",
+      "word": "Μοιάζεις",
+      "start": 195.553160,
+      "end": 195.712519,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "στην",
+      "word": "στην",
+      "start": 195.712519,
+      "end": 195.864162,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ε",
+      "word": "ελευθερία",
+      "start": 195.864162,
+      "end": 195.951185,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "λευ",
+      "word": "ελευθερία",
+      "start": 195.951185,
+      "end": 196.116189,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "θε",
+      "word": "ελευθερία",
+      "start": 196.116189,
+      "end": 196.307711,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ρί",
+      "word": "ελευθερία",
+      "start": 196.307711,
+      "end": 196.399052,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "α",
+      "word": "ελευθερία",
+      "start": 196.399052,
+      "end": 196.594781,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "μου",
+      "word": "μου",
+      "start": 196.594781,
+      "end": 196.818715,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "Ό",
+      "word": "Όταν",
+      "start": 197.149000,
+      "end": 197.231473,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ταν",
+      "word": "Όταν",
+      "start": 197.231473,
+      "end": 197.495645,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "εί",
+      "word": "είσαι",
+      "start": 197.495645,
+      "end": 197.557522,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "σαι",
+      "word": "είσαι",
+      "start": 197.557522,
+      "end": 197.806288,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "κει",
+      "word": "κει",
+      "start": 197.806288,
+      "end": 198.083258,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "βρά",
+      "word": "βράζει",
+      "start": 198.204065,
+      "end": 198.454517,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ζει",
+      "word": "βράζει",
+      "start": 198.454517,
+      "end": 198.571276,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "το",
+      "word": "το",
+      "start": 198.571276,
+      "end": 198.665563,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "αί",
+      "word": "αίμα",
+      "start": 198.665563,
+      "end": 198.744444,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "μα",
+      "word": "αίμα",
+      "start": 198.744444,
+      "end": 198.879983,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "στην",
+      "word": "στην",
+      "start": 198.879983,
+      "end": 199.064263,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "καθ",
+      "word": "κάθ'",
+      "start": 199.064263,
+      "end": 199.244000,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "αρ",
+      "word": "αρτηρία",
+      "start": 199.244000,
+      "end": 199.372633,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "τη",
+      "word": "αρτηρία",
+      "start": 199.372633,
+      "end": 199.546477,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "ρί",
+      "word": "αρτηρία",
+      "start": 199.546477,
+      "end": 199.676123,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "α",
+      "word": "αρτηρία",
+      "start": 199.676123,
+      "end": 199.798864,
+      "section": "verse_2"
+    },
+    {
+      "level": "syllable",
+      "label": "μου",
+      "word": "μου",
+      "start": 199.798864,
+      "end": 199.955028,
+      "section": "verse_2"
+    }
+  ]
+} 

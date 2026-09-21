@@ -1,0 +1,6 @@
+0.0 pre-chorus
+25.833418 chorus 
+51.864213 post-chorus
+77.763897 verse_1
+142.599065 chorus
+168.473006 post-chorus

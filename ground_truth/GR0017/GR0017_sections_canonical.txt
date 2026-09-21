@@ -1,0 +1,8 @@
+0.0 intro
+14.969506 verse_1
+59.050668 prechorus
+73.194889 chorus
+88.923955 intro 
+103.336136 verse_2
+164.192110 prechorus_2
+176.545642 chorus 
